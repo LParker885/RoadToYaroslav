@@ -1,0 +1,200 @@
+Item Number 501             Name: Grain biscuit (preserved)                           Age:   46 years,  293 days 	Tags: FOOD,NonMagic,Safe
+Item Number 502             Name: Cured duck leg (string-tied)                        Age:  494 years,    9 days 	Tags: FOOD,NonMagic,Safe,Sentient
+Item Number 503             Name: Glass with sugar rim residue                        Age:    2 years,  210 days 	Tags: FOOD,Magic,NonMagic,Safe
+Item Number 504             Name: Dried turnip wedge (grayish)                        Age:   18 years,    1 days 	Tags: FOOD,NonMagic,Safe
+Item Number 505             Name: Empty pastry shell (flaky)                          Age:    0 years,  102 days 	Tags: FOOD,NonMagic,Safe
+Item Number 506             Name: Jar of smoked mushrooms in oil                      Age:    1 years,   27 days 	Tags: FOOD,NonMagic,Safe,Stolen
+Item Number 507             Name: Moldy hunk of flatbread                             Age:  376 years,  362 days 	Tags: Dangerous,FOOD,NonMagic
+Item Number 508             Name: Folded leaf-wrapped rice ball                       Age:    0 years,   37 days 	Tags: FOOD,NonMagic,Recent,Remembered,Safe,Sentient
+Item Number 509             Name: Cup of beet soup (congealed)                        Age:    3 years,   16 days 	Tags: FOOD,NonMagic,Safe
+Item Number 510             Name: Apple core (bitten)                                 Age:    0 years,  349 days 	Tags: FOOD,Magic,NonMagic,Safe
+Item Number 511             Name: Slice of cured ham (thin)                           Age:    0 years,   98 days 	Tags: FOOD,NonMagic,Safe
+Item Number 512             Name: Jug of berry mead (sealed)                          Age:    1 years,    1 days 	Tags: FOOD,NonMagic,Safe,Stolen
+Item Number 513             Name: Pack of beef strips (dry)                           Age:    2 years,  277 days 	Tags: FOOD,NonMagic,Safe
+Item Number 514             Name: Bowl of stewed lentils (cold)                       Age:    0 years,   47 days 	Tags: FOOD,NonMagic,Recent,Remembered,Safe,Sentient
+Item Number 515             Name: Sachet of nutmeg and cinnamon                       Age:   25 years,  183 days 	Tags: FOOD,NonMagic,Safe
+Item Number 516             Name: Bottle of spring cider (effervescent)               Age:    0 years,    8 days 	Tags: FOOD,NonMagic,Recent,Remembered,Safe
+Item Number 517             Name: Boiled dumpling with dried herbs                    Age:    0 years,  122 days 	Tags: FOOD,NonMagic,Safe
+Item Number 518             Name: Cloth-wrapped loaf with sesame crust                Age:    0 years,   23 days 	Tags: FOOD,Magic,NonMagic,Safe
+Item Number 519             Name: Cut wedge of savory tart                            Age:    5 years,  210 days 	Tags: FOOD,NonMagic,Safe
+Item Number 520             Name: Jar of blackberry preserves                         Age:    0 years,   89 days 	Tags: FOOD,NonMagic,Safe
+Item Number 521             Name: Pouch of dry oats                                   Age:   39 years,  144 days 	Tags: FOOD,NonMagic,Safe
+Item Number 522             Name: Lump of hard sugar (clear)                          Age:    0 years,  127 days 	Tags: FOOD,NonMagic,Safe
+Item Number 523             Name: Sticky bun piece (crumbling)                        Age:    4 years,  359 days 	Tags: FOOD,NonMagic,Safe
+Item Number 524             Name: Cup of curdled cream                                Age:  142 years,  278 days 	Tags: Dangerous,FOOD,NonMagic
+Item Number 525             Name: Wax paper with toffee flakes                        Age:    0 years,   33 days 	Tags: FOOD,NonMagic,Safe
+Item Number 526             Name: Can of crab meat (sealed)                           Age:   80 years,   10 days 	Tags: FOOD,Magic,NonMagic,Safe
+Item Number 527             Name: Bit of roasted garlic clove                         Age:    2 years,   50 days 	Tags: FOOD,Important,NonMagic,Remembered,Safe
+Item Number 528             Name: Dried fruit slice (mixed)                           Age:    0 years,  181 days 	Tags: FOOD,NonMagic,Safe,Stolen
+Item Number 529             Name: Bottle of cherry wine (stoppered)                   Age:    2 years,  253 days 	Tags: FOOD,NonMagic,Safe
+Item Number 530             Name: Roll of dried noodles                               Age:    3 years,   45 days 	Tags: FOOD,NonMagic,Safe
+Item Number 531             Name: Steamed grain patty (cool)                          Age:    0 years,   69 days 	Tags: FOOD,Magic,NonMagic,Safe,Sentient
+Item Number 532             Name: Oil-soaked bread crust                              Age:    0 years,  316 days 	Tags: FOOD,NonMagic,Safe
+Item Number 533             Name: Rind of aged cheese                                 Age:  198 years,   31 days 	Tags: Dangerous,FOOD,NonMagic,Stolen
+Item Number 534             Name: Powdered milk tin (sealed)                          Age:   60 years,  202 days 	Tags: FOOD,Magic,NonMagic,Safe
+Item Number 535             Name: Sweet bun half (sticky)                             Age:    0 years,   29 days 	Tags: FOOD,NonMagic,Recent,Remembered,Safe
+Item Number 536             Name: Folded crepe with jam smear                         Age:    0 years,   17 days 	Tags: FOOD,NonMagic,Safe
+Item Number 537             Name: Wrapped chocolate bit (melted)                      Age:    0 years,   93 days 	Tags: FOOD,NonMagic,Safe
+Item Number 538             Name: Jar of green pickled peppers                        Age:   40 years,  240 days 	Tags: FOOD,NonMagic,Safe
+Item Number 539             Name: Wooden skewer with grilled onion                    Age:    0 years,   14 days 	Tags: FOOD,NonMagic,Safe,Sentient
+Item Number 540             Name: Soft boiled egg (cool)                              Age:    0 years,  102 days 	Tags: FOOD,Magic,NonMagic,Safe
+Item Number 541             Name: Flour sack corner (torn)                            Age:    3 years,  287 days 	Tags: FOOD,NonMagic,Safe
+Item Number 542             Name: Ceramic spoon with broth stain                      Age:   70 years,  352 days 	Tags: FOOD,NonMagic,Safe
+Item Number 543             Name: Corked jug of vinegar                               Age:   12 years,  351 days 	Tags: FOOD,Magic,NonMagic,Safe
+Item Number 544             Name: Pouch of rock salt                                  Age:   11 years,   99 days 	Tags: FOOD,Important,NonMagic,Remembered,Safe,Sentient
+Item Number 545             Name: Split loaf with butter marks                        Age:    0 years,  244 days 	Tags: FOOD,NonMagic,Safe,Stolen
+Item Number 546             Name: Packet of powdered cocoa                            Age:    0 years,    8 days 	Tags: FOOD,NonMagic,Recent,Remembered,Safe,Sentient
+Item Number 547             Name: Bag of pressed raisins                              Age:    3 years,  276 days 	Tags: FOOD,Magic,NonMagic,Safe
+Item Number 548             Name: Piece of charred crust                              Age:  158 years,  331 days 	Tags: Dangerous,FOOD,NonMagic,Sentient
+Item Number 549             Name: Cured sausage round (sliced)                        Age:    4 years,  274 days 	Tags: FOOD,Magic,NonMagic,Safe
+Item Number 550             Name: Bowl of chilled tomato soup                         Age:    0 years,    4 days 	Tags: FOOD,NonMagic,Recent,Remembered,Safe,Sentient
+Item Number 551             Name: Vial of ink that writes secrets unasked             Age:    2 years,  104 days 	Tags: Device,Magic,Safe,Sentient,Trinket
+Item Number 552             Name: Glove that crushes what it holds                    Age:  112 years,  300 days 	Tags: Dangerous,NonMagic,Sentient,Weapon
+Item Number 553             Name: Mirror shard that swaps reflections                 Age:    0 years,    7 days 	Tags: Device,Magic,Magic,Recent,Remembered,Sentient,Trinket
+Item Number 554             Name: Lantern that glows when lies are told               Age:    0 years,   28 days 	Tags: Device,Device,Magic,Safe,Sentient
+Item Number 555             Name: Comb that whispers rumors while used                Age:    5 years,  185 days 	Tags: Clothing,Dangerous,NonMagic,Sentient
+Item Number 556             Name: Tooth that sharpens itself daily                    Age:  353 years,  339 days 	Tags: Dangerous,Magic,NonMagic,Sentient,Weapon
+Item Number 557             Name: Rope that knots when watched                        Age:    0 years,   93 days 	Tags: Magic,Part,Safe,Sentient
+Item Number 558             Name: Pen nib that stabs when insulted                    Age:    0 years,    5 days 	Tags: Dangerous,NonMagic,Recent,Remembered,Sentient,Tool
+Item Number 559             Name: Hourglass that steals time                          Age:  483 years,  214 days 	Tags: Dangerous,Device,Magic,Magic,NonMagic,Sentient
+Item Number 560             Name: Tuning fork that causes headaches                   Age:    0 years,  122 days 	Tags: Dangerous,Device,Sentient,Tool
+Item Number 561             Name: Pouch that rearranges contents                      Age:    0 years,    3 days 	Tags: Magic,Magic,NonMagic,Part,Recent,Remembered,Sentient
+Item Number 562             Name: Candle stub that chants spells                      Age:   32 years,  187 days 	Tags: Magic,NonMagic,Potion,Sentient
+Item Number 563             Name: Fork that balances on its tines                     Age:    0 years,   27 days 	Tags: Clothing,Magic,Safe,Sentient
+Item Number 564             Name: Flask of laughter that won’t stop                   Age:   86 years,  211 days 	Tags: Dangerous,Magic,Potion,Sentient
+Item Number 565             Name: Knife that won’t cut food                           Age:    3 years,  332 days 	Tags: Dangerous,Magic,NonMagic,Sentient,Tool
+Item Number 566             Name: Tome that misquotes everything                      Age:    1 years,    0 days 	Tags: Magic,NonMagic,Sentient,Trinket
+Item Number 567             Name: Coin that flips itself                              Age:    0 years,    4 days 	Tags: Currency,Magic,Magic,NonMagic,Recent,Remembered,Sentient
+Item Number 568             Name: Shoelace that loops into knots                      Age:   98 years,  320 days 	Tags: Clothing,Dangerous,NonMagic,Sentient
+Item Number 569             Name: Quill that rewrites intentions                      Age:    0 years,    6 days 	Tags: Magic,NonMagic,Recent,Remembered,Sentient,Tool
+Item Number 570             Name: Stone that hums when buried                         Age:    0 years,  154 days 	Tags: Magic,RawMaterial,Safe,Sentient
+Item Number 571             Name: Spoon that siphons heat                             Age:    0 years,  152 days 	Tags: Clothing,Magic,Safe,Sentient
+Item Number 572             Name: Hat that swaps languages mid-sentence               Age:    0 years,   89 days 	Tags: Clothing,Magic,Magic,NonMagic,Sentient
+Item Number 573             Name: Spectacles that hide monsters                       Age:    0 years,    1 days 	Tags: Clothing,Magic,NonMagic,Recent,Remembered,Sentient
+Item Number 574             Name: Razor that sings opera                              Age:   10 years,  151 days 	Tags: Magic,Safe,Sentient,Tool
+Item Number 575             Name: Bell that chimes regret                             Age:   82 years,  169 days 	Tags: Magic,Magic,Safe,Sentient,Trinket
+Item Number 576             Name: Teacup that scalds the unworthy                     Age:    4 years,  357 days 	Tags: Clothing,Dangerous,NonMagic,Sentient
+Item Number 577             Name: Curtain ring that obscures faces                    Age:    0 years,   42 days 	Tags: Magic,Safe,Sentient,Trinket
+Item Number 578             Name: Scarf that strangles gently                         Age:  136 years,  348 days 	Tags: Clothing,Dangerous,Magic,NonMagic,Sentient
+Item Number 579             Name: Compass that points to danger                       Age:    0 years,    7 days 	Tags: Device,Magic,Recent,Remembered,Sentient,Tool
+Item Number 580             Name: Lantern oil that whispers in rhyme                  Age:   27 years,  348 days 	Tags: Magic,Magic,Potion,Safe,Sentient
+Item Number 581             Name: Wand that fires itself at dusk                      Age:  100 years,    1 days 	Tags: Dangerous,Device,Magic,Sentient
+Item Number 582             Name: Belt buckle that unfastens at lies                  Age:    0 years,  214 days 	Tags: Clothing,Magic,Safe,Sentient
+Item Number 583             Name: Snuffbox that refills with dust                     Age:    0 years,   30 days 	Tags: Magic,NonMagic,Potion,Sentient
+Item Number 584             Name: Inkpot that darkens light                           Age:    0 years,    5 days 	Tags: Magic,NonMagic,Potion,Recent,Remembered,Sentient
+Item Number 585             Name: Rattle that summons vermin                          Age:  517 years,  106 days 	Tags: Dangerous,NonMagic,Sentient,Trinket
+Item Number 586             Name: Cracked lens that reveals too much                  Age:    0 years,   83 days 	Tags: Clothing,Dangerous,Magic,NonMagic,Sentient
+Item Number 587             Name: Saddle strap that unbuckles uphill                  Age:    0 years,  102 days 	Tags: Magic,Part,Safe,Sentient
+Item Number 588             Name: Dice that never stop rolling                        Age:   28 years,    3 days 	Tags: Currency,Magic,Safe,Sentient
+Item Number 589             Name: Boot heel that walks backward                       Age:   94 years,  134 days 	Tags: Clothing,Dangerous,NonMagic,Sentient
+Item Number 590             Name: Stained glove that reverses time slightly           Age:    0 years,   29 days 	Tags: Clothing,Important,Magic,Remembered,Safe,Sentient
+Item Number 591             Name: Envelope that seals intentions                      Age:    3 years,  188 days 	Tags: Magic,Magic,Safe,Sentient,Trinket
+Item Number 592             Name: Clock face that screams at noon                     Age:   72 years,  147 days 	Tags: Dangerous,Device,Sentient,Tool
+Item Number 593             Name: Bone spoon that slurps uninvited                    Age:    1 years,   67 days 	Tags: Clothing,Dangerous,NonMagic,Sentient
+Item Number 594             Name: Weathered wand that denies magic                    Age:    0 years,  347 days 	Tags: Magic,Magic,Potion,Safe,Sentient
+Item Number 595             Name: Puzzle box that resets memories                     Age:    0 years,   73 days 	Tags: Magic,Magic,NonMagic,Sentient,Trinket
+Item Number 596             Name: Dagger hilt that giggles                            Age:  411 years,  105 days 	Tags: Dangerous,NonMagic,Sentient,Weapon
+Item Number 597             Name: Paperclip that cuts flesh                           Age:   25 years,  177 days 	Tags: Dangerous,Magic,NonMagic,Part,Sentient
+Item Number 598             Name: Thread that sews itself into fabric                 Age:    5 years,    6 days 	Tags: Magic,Part,Safe,Sentient
+Item Number 599             Name: Button that swaps places with others                Age:    0 years,  118 days 	Tags: Clothing,Magic,Magic,Safe,Sentient
+Item Number 600             Name: Cup that forgets its contents                       Age:  100 years,    2 days 	Tags: Clothing,Magic,Safe,Sentient
+Item Number 601             Name: Round river stone with pale veins                   Age:    5 years,   14 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 602             Name: Sprig of dried lavender                             Age:   22 years,  171 days 	Tags: FOOD,Nature,NonMagic,Safe
+Item Number 603             Name: Flat gray pebble (smooth)                           Age:    0 years,    2 days 	Tags: Nature,NonMagic,RawMaterial,Recent,Remembered,Safe
+Item Number 604             Name: Bark chip with lichen spots                         Age:    0 years,   93 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 605             Name: Golden acorn (polished)                             Age:  134 years,  211 days 	Tags: Magic,Nature,NonMagic,Safe,Trinket
+Item Number 606             Name: Snail shell with spiral cracks                      Age:    0 years,   29 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 607             Name: Leaf skeleton (intact)                              Age:    0 years,  240 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 608             Name: Small pinecone (closed)                             Age:    1 years,  117 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 609             Name: White mushroom cap (dried)                          Age:   47 years,  285 days 	Tags: Dangerous,FOOD,Nature,NonMagic
+Item Number 610             Name: Clump of moss (spongy)                              Age:    0 years,    7 days 	Tags: Nature,NonMagic,RawMaterial,Recent,Remembered,Safe
+Item Number 611             Name: Tiny bird feather (blue)                            Age:    2 years,  282 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 612             Name: Smooth black seed pod                               Age:    1 years,    1 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 613             Name: Flat skipping stone (scuffed)                       Age:    0 years,   14 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 614             Name: Curled oak leaf (brown)                             Age:    0 years,   92 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 615             Name: Segment of reed (hollow)                            Age:   24 years,  121 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 616             Name: Frostbitten leaf fragment                           Age:    0 years,    1 days 	Tags: Nature,NonMagic,Recent,Remembered,Safe,Trinket
+Item Number 617             Name: Flower petal (pressed)                              Age:    8 years,  264 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 618             Name: Green sprout (folded)                               Age:    0 years,   27 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 619             Name: Shell fragment (iridescent)                         Age:    1 years,   76 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 620             Name: Hollow nut shell (cracked)                          Age:   30 years,   80 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 621             Name: Patch of dried grass                                Age:    0 years,   12 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 622             Name: Stick with four knots                               Age:   48 years,  361 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 623             Name: Wilted wildflower stem                              Age:    0 years,   53 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 624             Name: Clump of clay soil                                  Age:    0 years,  145 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 625             Name: Curled vine segment                                 Age:   10 years,  169 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 626             Name: Seed husk (split)                                   Age:    2 years,  153 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 627             Name: Dewdrop trapped in resin                            Age:    0 years,    4 days 	Tags: Nature,NonMagic,Recent,Remembered,Safe,Trinket
+Item Number 628             Name: Charred root tip                                    Age:    0 years,   99 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 629             Name: Dusty antler nub                                    Age:    6 years,  293 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 630             Name: Hollow cattail tube                                 Age:    0 years,   30 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 631             Name: Smooth pine needle cluster                          Age:    0 years,    3 days 	Tags: Nature,NonMagic,RawMaterial,Recent,Remembered,Safe
+Item Number 632             Name: Twig shaped like a fork                             Age:    3 years,  262 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 633             Name: Translucent feather (long)                          Age:    4 years,   50 days 	Tags: Magic,Nature,Safe,Trinket
+Item Number 634             Name: Stone with fossil impression                        Age:  101 years,  137 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 635             Name: Mushroom puffball (flat)                            Age:    0 years,  109 days 	Tags: Dangerous,FOOD,Nature,NonMagic
+Item Number 636             Name: Bundle of soft fur                                  Age:    0 years,  118 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 637             Name: Frozen leaf shard                                   Age:    0 years,  178 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 638             Name: Red berry on dry stem                               Age:    0 years,    6 days 	Tags: FOOD,Nature,NonMagic,Recent,Remembered,Safe
+Item Number 639             Name: Small insect wing (brittle)                         Age:    0 years,   83 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 640             Name: Birch bark curl                                     Age:   12 years,  241 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 641             Name: Cocoon shell (empty)                                Age:    0 years,   17 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 642             Name: Fox whisker                                         Age:    0 years,    2 days 	Tags: Nature,NonMagic,Recent,Remembered,Safe,Trinket
+Item Number 643             Name: Sand clump with shell bits                          Age:    0 years,  175 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 644             Name: Bee body (intact)                                   Age:   25 years,  178 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 645             Name: Stone disk with hole                                Age:    0 years,   19 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 646             Name: Tiny frog skull                                     Age:  107 years,  347 days 	Tags: Dangerous,Nature,NonMagic,Trinket
+Item Number 647             Name: Smooth lump of amber                                Age:  100 years,    1 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 648             Name: Twisted thorn branch                                Age:    2 years,  313 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 649             Name: Bone fragment (gnawed)                              Age:    8 years,    0 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 650             Name: Sprig of rosemary (dried)                           Age:    0 years,   49 days 	Tags: FOOD,Nature,NonMagic,Safe
+Item Number 651             Name: Soft green moss ball                                Age:    0 years,    5 days 	Tags: Nature,NonMagic,RawMaterial,Recent,Remembered,Safe
+Item Number 652             Name: Shiny black beetle shell                            Age:    0 years,  110 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 653             Name: Pebble shaped like a heart                          Age:    0 years,  361 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 654             Name: Hollow reed whistle                                 Age:    0 years,    7 days 	Tags: Nature,NonMagic,Part,Recent,Remembered,Safe
+Item Number 655             Name: Hawk talon sheath                                   Age:    3 years,  326 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 656             Name: Snowflake fossil in stone                           Age:  135 years,   19 days 	Tags: Magic,Nature,RawMaterial,Safe
+Item Number 657             Name: Nest lining fluff                                   Age:    0 years,   13 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 658             Name: Worm casting clump                                  Age:    0 years,  303 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 659             Name: Bit of truffle root                                 Age:    2 years,  110 days 	Tags: FOOD,Nature,NonMagic,Safe
+Item Number 660             Name: Red maple seed pair                                 Age:    0 years,    8 days 	Tags: Nature,NonMagic,RawMaterial,Recent,Remembered,Safe
+Item Number 661             Name: Acorn cap (cracked)                                 Age:    1 years,   25 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 662             Name: Lump of sap with bark                               Age:    0 years,   21 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 663             Name: Moss scrap with tiny spores                         Age:    0 years,   38 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 664             Name: Lichen flake (dull green)                           Age:    0 years,  119 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 665             Name: Feather with shifting colors                        Age:    0 years,   15 days 	Tags: Magic,Nature,Safe,Trinket
+Item Number 666             Name: Firefly abdomen casing                              Age:   27 years,  238 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 667             Name: Bone shard (etched)                                 Age:  208 years,  281 days 	Tags: Dangerous,Nature,NonMagic,Trinket
+Item Number 668             Name: Grain husk cluster                                  Age:    0 years,  307 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 669             Name: Patch of dried pond algae                           Age:   49 years,  117 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 670             Name: Driftwood chip (light)                              Age:    0 years,  281 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 671             Name: Silkworm cocoon fragment                            Age:    7 years,   75 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 672             Name: Fuzzy caterpillar skin                              Age:    0 years,  174 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 673             Name: Petal fragment (glowing edge)                       Age:    0 years,    6 days 	Tags: Magic,Nature,Recent,Remembered,Safe,Trinket
+Item Number 674             Name: Dragonfly wing (tattered)                           Age:    0 years,  230 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 675             Name: Seedling with fine roots                            Age:    0 years,   22 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 676             Name: Bark sliver with rune-like marks                    Age:    3 years,  325 days 	Tags: Magic,Nature,RawMaterial,Safe
+Item Number 677             Name: Stone with spiral groove                            Age:    1 years,    0 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 678             Name: Crystal fragment with moss                          Age:    0 years,  102 days 	Tags: Magic,Nature,RawMaterial,Safe
+Item Number 679             Name: Speckled egg shell piece                            Age:    5 years,   52 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 680             Name: Antler chip with smooth polish                      Age:    0 years,    9 days 	Tags: Nature,NonMagic,Recent,Remembered,Safe,Trinket
+Item Number 681             Name: Slick patch of lichen                               Age:    0 years,   11 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 682             Name: Toad print in mud chip                              Age:    5 years,  278 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 683             Name: Single pine needle (red)                            Age:    0 years,   49 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 684             Name: Stick with embedded pebble                          Age:    0 years,  340 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 685             Name: Shell bead (cracked)                                Age:   22 years,  273 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 686             Name: Sprig of mint (dry)                                 Age:    0 years,   92 days 	Tags: FOOD,Nature,NonMagic,Safe
+Item Number 687             Name: Thorn tip (blood-stained)                           Age:  121 years,  336 days 	Tags: Dangerous,Nature,NonMagic,Trinket
+Item Number 688             Name: Pebble with naturally formed hole                   Age:    0 years,   61 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 689             Name: Leaf with silvery veins                             Age:    0 years,   99 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 690             Name: Tendril knot (tight)                                Age:    0 years,   31 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 691             Name: Spore pod (sealed)                                  Age:    1 years,  336 days 	Tags: FOOD,Nature,NonMagic,Safe
+Item Number 692             Name: Web strand on twig                                  Age:    0 years,  100 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 693             Name: Deer hair tuft                                      Age:    0 years,    5 days 	Tags: Nature,NonMagic,Recent,Remembered,Safe,Trinket
+Item Number 694             Name: Moss-covered nut shell                              Age:    0 years,   49 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 695             Name: Smooth pink seed                                    Age:    0 years,   83 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 696             Name: Tiny flower cluster (dry)                           Age:    0 years,   13 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 697             Name: Beetle casing (green sheen)                         Age:    1 years,  106 days 	Tags: Nature,NonMagic,Safe,Trinket
+Item Number 698             Name: Rootlet bundle (twisted)                            Age:    0 years,  273 days 	Tags: Nature,NonMagic,RawMaterial,Safe
+Item Number 699             Name: Stone chip with magnetic pull                       Age:    0 years,    7 days 	Tags: Magic,Nature,RawMaterial,Recent,Remembered,Safe
+Item Number 700             Name: Bark flake with black fungus                        Age:    3 years,   45 days 	Tags: Dangerous,Nature,NonMagic,Trinket
