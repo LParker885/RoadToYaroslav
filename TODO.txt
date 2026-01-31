@@ -1,4 +1,0 @@
-dump SQL to junk.csv
-make treasure.csv
-make useful.csv
-redo char sheet
